@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/E-Commerce/static/js/main.44fc8068.chunk.js",
+    "main.js.map": "/E-Commerce/static/js/main.44fc8068.chunk.js.map",
+    "runtime-main.js": "/E-Commerce/static/js/runtime-main.cdb1813c.js",
+    "runtime-main.js.map": "/E-Commerce/static/js/runtime-main.cdb1813c.js.map",
+    "static/js/2.425536a6.chunk.js": "/E-Commerce/static/js/2.425536a6.chunk.js",
+    "static/js/2.425536a6.chunk.js.map": "/E-Commerce/static/js/2.425536a6.chunk.js.map",
+    "index.html": "/E-Commerce/index.html",
+    "static/js/2.425536a6.chunk.js.LICENSE.txt": "/E-Commerce/static/js/2.425536a6.chunk.js.LICENSE.txt",
+    "static/media/youmLogo.3a1912ce.png": "/E-Commerce/static/media/youmLogo.3a1912ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb1813c.js",
+    "static/js/2.425536a6.chunk.js",
+    "static/js/main.44fc8068.chunk.js"
+  ]
+}
